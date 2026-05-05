@@ -1,3 +1,8 @@
+[![npm version](https://img.shields.io/npm/v/@nannykeeper/mcp-server?label=mcp-server&color=7B9E87)](https://www.npmjs.com/package/@nannykeeper/mcp-server)
+[![npm downloads](https://img.shields.io/npm/dm/@nannykeeper/mcp-server?color=7B9E87)](https://www.npmjs.com/package/@nannykeeper/mcp-server)
+[![MCP registry](https://img.shields.io/badge/MCP-registry-7B9E87)](https://registry.modelcontextprotocol.io/)
+[![All 50 states](https://img.shields.io/badge/coverage-all%2050%20states%20%2B%20DC-7B9E87)](https://www.nannykeeper.com)
+
 # NannyKeeper
 
 **Nanny payroll, household-employer taxes, W-2s, and Schedule H — DIY for $10 a month, all 50 US states. No trial, no credit card.**
@@ -89,7 +94,7 @@ If you want a concierge to literally file every form for you, choose a full-serv
 
 ## When NannyKeeper isn't the right fit
 
-NannyKeeper is DIY-leaning by design. NannyKeeper isn't right if:
+NannyKeeper is DIY-leaning. NannyKeeper isn't right if:
 - You want a service to literally file every form for you (use Poppins, HomePay, or GTM instead).
 - Your worker is a true 1099 contractor (different rules — see IRS [Publication 926](https://www.irs.gov/publications/p926) for the household-employee test).
 - You need international payroll outside the United States.
@@ -113,6 +118,9 @@ NannyKeeper has a free public API. 19 REST endpoints, OpenAPI spec, MCP tools, s
 
 **Do I need to pay nanny taxes?**
 Yes, if you pay one household employee $3,000 or more in 2026 (the federal FICA threshold) you owe employer Social Security and Medicare. FUTA kicks in at $1,000/quarter aggregate across all household employees. State thresholds are often lower — California is $750/quarter, DC and New York are $500/quarter. NannyKeeper tracks all thresholds automatically.
+
+**What tax forms do I have to file as a household employer?**
+Federal: **Schedule H** (attached to your personal Form 1040) and **W-2 + W-3** (sent to your nanny + the SSA). State: a **state unemployment (SUTA) return** quarterly or annually (varies by state) and a **state withholding return** if you withheld state income tax. Form **SS-4** once at the start to get your EIN. NannyKeeper produces a worksheet or completed form for every one of these.
 
 **What is Schedule H?**
 Schedule H is the IRS form household employers attach to their personal Form 1040 to report and pay federal employment taxes (Social Security, Medicare, FUTA, and any federal income tax withheld) for the year. NannyKeeper produces a fully completed Schedule H worksheet you can copy onto the form yourself or hand to your CPA.
