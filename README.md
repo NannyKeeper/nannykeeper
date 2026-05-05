@@ -8,7 +8,7 @@
 
 ---
 
-**Jump to:** [About](#about) · [Features](#features) · [Coverage](#coverage) · [Pricing](#pricing) · [60-second start](#get-started-in-60-seconds) · [Comparison](#comparison-vs-poppins-homepay-gtm-surepayroll) · [Reviews](#what-customers-say) · [Open source](#open-source) · [API](#build-with-us) · [FAQ](#faq)
+**Jump to:** [About](#about) · [Features](#features) · [Coverage](#coverage) · [Pricing](#pricing) · [60-second start](#get-started-in-60-seconds) · [Comparison](#comparison-vs-poppins-homepay-gtm-surepayroll) · [Reviews](#what-customers-say) · [Open source](#open-source) · [API](#build-with-us) · [FAQ](#faq) · [Resources](#resources)
 
 ---
 
@@ -16,7 +16,7 @@
 
 NannyKeeper is payroll software for families who employ a nanny, housekeeper, senior caregiver, or other household employee in the United States. NannyKeeper runs payroll, computes federal and state taxes, generates pay stubs and W-2s, and produces a fully filled Schedule H worksheet for your federal Form 1040 — without the $80–150/month price tag of a full-service household payroll company.
 
-Same calculations. Same accuracy. You handle the (very simple) submission step; NannyKeeper handles everything else.
+Same calculations. Same accuracy. Submitting the forms takes about three minutes per quarter; NannyKeeper handles everything else.
 
 NannyKeeper Inc. is a Delaware C-Corporation, US-based. Founder reads every email at [hello@nannykeeper.com](mailto:hello@nannykeeper.com).
 
@@ -47,6 +47,8 @@ NannyKeeper supports household-employer payroll and taxes in **all 50 US states 
 | **W-2 Only** | $10 once | If you handled payroll yourself all year and just need the year-end W-2 |
 
 No trial, no credit card required to start, cancel anytime.
+
+[**→ Sign up free at nannykeeper.com**](https://www.nannykeeper.com/signup)
 
 ## Get started in 60 seconds
 
@@ -89,7 +91,7 @@ If you want a concierge to literally file every form for you, choose a full-serv
 
 NannyKeeper is DIY-leaning by design. NannyKeeper isn't right if:
 - You want a service to literally file every form for you (use Poppins, HomePay, or GTM instead).
-- Your worker is a true 1099 contractor (different rules — see IRS [Publication 926](https://www.irs.gov/publications/p926) for the household-employee-test).
+- Your worker is a true 1099 contractor (different rules — see IRS [Publication 926](https://www.irs.gov/publications/p926) for the household-employee test).
 - You need international payroll outside the United States.
 
 For almost every nanny, the IRS classifies the relationship as "household employee," not contractor.
@@ -124,6 +126,15 @@ Add your nanny's profile, set their pay rate and frequency, click "Run payroll."
 **How does NannyKeeper compare to Poppins, HomePay, GTM Payroll, or SurePayroll?**
 Same calculations, much lower price. Full-service services typically run $80–150/month and submit filings on your behalf. NannyKeeper is DIY at $10–18/month — the math is identical, you just hand-submit. Best if you want accuracy without the concierge premium. See the [comparison table](#comparison-vs-poppins-homepay-gtm-surepayroll) above.
 
+**California nanny tax — what's different?**
+California has a $750/quarter SUTA threshold (lower than the federal $1,000), employee SDI at 1.1% of wages, employer ETT at 0.1%, and California state income tax (PIT) withholding. NannyKeeper computes all of these every paycheck and surfaces them on the pay stub.
+
+**New York nanny tax — what's different?**
+New York has a $500/quarter SUTA threshold, employee DBL (~$0.60/week capped, employee-paid), and PFL (~0.388% of wages capped, employee-paid). New York City and Yonkers also have local income tax in many cases. NannyKeeper tracks every line on the pay stub and quarterly report.
+
+**Texas, Florida, Washington — do I owe state income tax?**
+No state income tax in TX, FL, or WA — but you still owe state unemployment (SUTA) on the first $X of wages (varies by state) and federal taxes. NannyKeeper handles the SUTA + federal automatically.
+
 **Do you support nanny shares?**
 Yes. Each family is a separate employer with its own NannyKeeper account and payroll runs. The nanny gets one W-2 per family at year-end.
 
@@ -147,6 +158,19 @@ NannyKeeper has a permanent free tier — time tracking, nanny portal, payment r
 
 **Where is NannyKeeper based?**
 NannyKeeper Inc. is a Delaware C-Corporation, US-based. Founder reads every email at [hello@nannykeeper.com](mailto:hello@nannykeeper.com).
+
+## Resources
+
+Long-form guides on nannykeeper.com:
+
+- **[Complete nanny tax guide](https://www.nannykeeper.com/blog/complete-nanny-tax-guide)** — every form, every threshold, every deadline.
+- **[Filing nanny taxes (2026)](https://www.nannykeeper.com/blog/filing-nanny-taxes-2026)** — current-year walkthrough.
+- **[Cost to hire a nanny legally](https://www.nannykeeper.com/blog/cost-to-hire-nanny-legally)** — the real all-in number families pay.
+- **[Nanny vs household contractor](https://www.nannykeeper.com/blog/household-employer-vs-contractor)** — the IRS test and why 1099s usually fail.
+- **[Back-pay nanny taxes](https://www.nannykeeper.com/blog/back-pay-nanny-taxes)** — catching up after paying under the table.
+- **[Best nanny payroll services 2026](https://www.nannykeeper.com/blog/best-nanny-payroll-services-2026)** — honest landscape, including competitors.
+- **[New York DBL/PFL for nannies](https://www.nannykeeper.com/blog/nanny-dbl-pfl-new-york)** — state-specific deep dive.
+- **[Nanny tax calculator 2026](https://www.nannykeeper.com/calculator)** — instant estimate, no signup.
 
 ---
 
