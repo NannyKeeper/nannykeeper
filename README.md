@@ -182,4 +182,4 @@ Long-form guides on nannykeeper.com:
 
 ---
 
-NannyKeeper Inc. · [Privacy](https://www.nannykeeper.com/privacy) · [Terms](https://www.nannykeeper.com/terms) · [Status](https://status.nannykeeper.com)
+NannyKeeper Inc. · [Privacy](https://www.nannykeeper.com/privacy) · [Terms](https://www.nannykeeper.com/terms)
